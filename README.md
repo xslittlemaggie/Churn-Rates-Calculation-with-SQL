@@ -1,5 +1,5 @@
 # Churn-Rates-Calculation-with-SQL
-# Project: Churn Rates Calculation
+# Title: Churn Rates Calculation
 The churn rate calculation is a common revenue model for SaaS (Software as a service) companies to charge a monthly subscription fee for access to their product.
 **Churn Rate** is the precent of subscribers that have canceled within a certain period, usually a month. 
 
@@ -140,7 +140,7 @@ id|	month|	subscription_start|	subscription_end|	segment|	is_active_87|	is_activ
 |2017-02-01	|467	|518	|148|38|
 |2017-03-01	|541	|718	|258|84|
 
-### Step 5 : Calculate the churn rates for each groups for the 3 months respectively
+### Step 5 : Calculate the churn rates for each group for the 3 months respectively
 
 ```sql
 ...
